@@ -1,14 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Fracktal Blog
+email: support@fracktal.in
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We aim to create a system where we can emphasize the most fundamental of all human traits- Creation!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://fracktal.in" # the base hostname & protocol for your site
+twitter_username: fracktalworks
+github_username:  fracktalworks
 
 # Build settings
 markdown: kramdown

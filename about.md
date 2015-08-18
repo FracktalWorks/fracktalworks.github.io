@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Fracktal Works holds product development and 3D printing services for all field of community from a school kid to an industrial client. Here at Fracktal Works we turn your ideas into 3D printed reality. Our team of designers and manufacturing consultant would help you creating your ideas from design to prototyping, while you focus on innovation. Our firm prototype precision crafted representation of your imagination, our team of designers validate on all aspects of functionality and manufacturability to production.
