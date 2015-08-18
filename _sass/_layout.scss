@@ -17,6 +17,11 @@
     margin-bottom: 0;
     float: left;
 
+    img {
+        width: 9%;
+        padding-right: 10px;
+    }
+
     &,
     &:visited {
         color: $grey-color-dark;
